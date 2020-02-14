@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GoldenNuggets:jar">
+    <output-path>$PROJECT_DIR$/../bungeecord/Hub/plugins</output-path>
+    <root id="archive" name="GoldenNuggets.jar">
+      <element id="module-output" name="GoldenNuggets" />
+    </root>
+  </artifact>
+</component>

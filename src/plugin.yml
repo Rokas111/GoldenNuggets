@@ -1,0 +1,8 @@
+name: GoldenNuggets
+main: me.Rokaz.GoldenNuggets.core.GoldenNuggets
+version: 1.0
+author: Rokaz
+commands:
+  givecitem:
+    description: Gives you a nugget item
+    usages: /givecitem
